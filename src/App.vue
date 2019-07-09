@@ -1,24 +1,40 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="logo" src="./assets/logo.png" />
+    <Quotes :content="content" />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Quotes from "./components/Quotes.vue";
 
 export default {
-  name: 'app',
+  name: "app",
+  data: function() {
+    return {
+      content: []
+    };
+  },
   components: {
-    HelloWorld
+    Quotes
+  },
+  methods: {
+    fetchData: function() {
+      fetch("./data/it_quotes.json").then(response => {
+        response.json().then(a => (this.content = a));
+      });
+    }
+  },
+  created: function() {
+    this.fetchData();
+    console.log("data fetched");
   }
-}
+};
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;

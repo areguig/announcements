@@ -1,0 +1,446 @@
+[
+    {
+        "quote": "When life gives you lemonade, make lemons. Life’ll be all like ‘what?!’",
+        "author": "Phil Dunphy",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.",
+        "author": "Melvin Conway",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to build bigger and better idiots. So far, the universe is winning",
+        "author": "Rick Cook",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to build bigger and better idiots. So far, the universe is winning",
+        "author": "Rick Cook",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+        "author": "Edward V Berard",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.",
+        "author": "Mosher’s Law of Software Engineering",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "In the one and only true way. The object-oriented version of 'Spaghetti code' is, of course, 'Lasagna code'. (Too many layers).",
+        "author": "Roberto Waltman",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Talk is cheap. Show me the code.",
+        "author": "Linus Torvalds",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Perfection [in design] is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+        "author": "Antoine de Saint-Exupéry",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "You can’t have great software without a great team, and most software teams behave like dysfunctional families.",
+        "author": "Jim McCarthy",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Programming is like kicking yourself in the face, sooner or later your nose will bleed.",
+        "author": "Kyle Woodbury",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "author": "Bill Gates",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+        "author": "Christopher Thompson",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler",
+        "twitter_handle": "martinfowler",
+        "tweet_id": null
+    },
+    {
+        "quote": "If debugging is the process of removing bugs, programming must be the process of putting them in.",
+        "author": "Edsger Dijkstra",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+        "author": "Martin Golding",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "One of the best programming skills you can have is knowing when to walk away for a while.",
+        "author": "Oscar Godson",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Today 80% of programming is vainglorious use of bloated tech for hide misery of legacy system behind theatrical API and pompous screen.",
+        "author": "DDD Borat‏",
+        "twitter_handle": "DDD_Borat",
+        "tweet_id": "891934792165543937"
+    },
+    {
+        "quote": "We write computer programs to implement solutions to problems.We read computer programs to find which problems they are solving.",
+        "author": "Jérôme Prudent‏",
+        "twitter_handle": "jeromeprudent",
+        "tweet_id": "890647736424423424"
+    },
+    {
+        "quote": "Think twice before you start programming or you will program twice before you start thinking.",
+        "author": "Unknown",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along wound destroy civilization.",
+        "author": "Gerald Weinberg",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Great leaders don't see people as a commodity to be managed to grow the $, they see $ as the commodity to be managed to grow the people.",
+        "author": "Simon Sinek",
+        "twitter_handle": "simonsinek",
+        "tweet_id": "874370332991336448"
+    },
+    {
+        "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+        "author": "Patrick McKenzie",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "When debugging, novices insert corrective code; experts remove defective code.",
+        "author": "Richard Pattis",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Never attribute to malice that which is adequately explained by stupidity.",
+        "author": "Hanlon's razor",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "A lack of automated tests is not what causes defects... a lack of system understanding is. Tests let us automate part of our understanding.",
+        "author": "Gregory Brown‏",
+        "twitter_handle": "practicingdev",
+        "tweet_id": "847792779426246656"
+    },
+    {
+        "quote": "Software design is about deciding carefully between all the possible ways to code the same behavior.",
+        "author": "Cyrille Martraire",
+        "twitter_handle": "cyriux",
+        "tweet_id": "837246556030058496"
+    },
+    {
+        "quote": "Stop paying recruiters. Pay good trainers, hire literally anyone who seems like a hard worker and a kind person. Help them grow.",
+        "author": "Gregory Brown‏",
+        "twitter_handle": "practicingdev",
+        "tweet_id": "844915842169098240"
+    },
+    {
+        "quote": "Everybody likes to write reusable code, and no one wants to reuse anybody else's code.",
+        "author": "Persistent Eryn",
+        "twitter_handle": "eryno",
+        "tweet_id": null
+    },
+    {
+        "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+        "author": "Louis Srygley",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "If you can’t build monolith correctly why do you think putting network in the middle will help?",
+        "author": "Simon Brown",
+        "twitter_handle": "simonbrown",
+        "tweet_id": null
+    },
+    {
+        "quote": "No language can turn a copypaste monkey into a good programmer, but a bad language can force a good programmer to do lots of copy and paste.",
+        "author": "Mario Fusco",
+        "twitter_handle": "mariofusco",
+        "tweet_id": "790168828122726404"
+    },
+    {
+        "quote": "Design patterns are like the rules of football: you have to know them to play,  but following them does not make you a good player.",
+        "author": "Mario Fusco",
+        "twitter_handle": "mariofusco",
+        "tweet_id": null
+    },
+    {
+        "quote": "Obsessing on Software Craftsmanship sometime becomes a new way to procrastinate or to over-engineer at the expense of delivering value. Sigh",
+        "author": "Cyrille Martraire",
+        "twitter_handle": "cyriux",
+        "tweet_id": "743464138601553920"
+    },
+    {
+        "quote": "The only time I learn is when something is wrong.",
+        "author": "ylorph",
+        "twitter_handle": "ylorph",
+        "tweet_id": null
+    },
+    {
+        "quote": "Algorithm is the word you use when you don't want to explain what your code does.",
+        "author": "Anonymous",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "If you remake awful software from scratch without changing the culture that created it: you'll remake awful software",
+        "author": "Romeu Moura",
+        "twitter_handle": "malk_zameth",
+        "tweet_id": "654710109214371841"
+    },
+    {
+        "quote": "Good software, like wine, takes time.",
+        "author": "Joel Spolsky",
+        "twitter_handle": "spolsky",
+        "tweet_id": null
+    },
+    {
+        "quote": "Programming is like sex. One mistake and you have to support it for the rest of your life.",
+        "author": "Michael Sinz",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "First, solve the problem. Then, write the code.",
+        "author": "John Johnson",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "It's all talk until the code runs.",
+        "author": "Ward Cunningham",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "The best programs are the ones written when the programmer is supposed to be working on something else.",
+        "author": "Melinda Varian",
+        "twitter_handle": null,
+        "tweet_id": "892838165496684545"
+    },
+    {
+        "quote": "Good design adds value faster than it adds cost.",
+        "author": "Thomas C. Gale",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "You can’t have great software without a great team, and most software teams behave like dysfunctional families.",
+        "author": "Jim McCarthy",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.",
+        "author": "Ted Nelson",
+        "twitter_handle": "thetednelson",
+        "tweet_id": null
+    },
+    {
+        "quote": "The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.",
+        "author": "Ted Nelson",
+        "twitter_handle": "thetednelson",
+        "tweet_id": null
+    },
+    {
+        "quote": "Testing can only prove the presence of bugs, not their absence.",
+        "author": "Edsger Dijkstra",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "author": "Harold Abelson & Gerald Jay Sussman",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Don’t forget - having legacy software is often a sign of success. Your business was successful to last long enough for your software to become legacy.",
+        "author": "Sam Newman",
+        "twitter_handle": "samnewman",
+        "tweet_id": "929622273065136130"
+    },
+    {
+        "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+        "author": "Douglas O. Linder",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Truth can only be found in one place: the code.",
+        "author": "Robert C. Martin",
+        "twitter_handle": "unclebobmartin",
+        "tweet_id": null
+    },
+    {
+        "quote": "You should name a variable using the same care with which you name a first-born child.",
+        "author": "Robert C. Martin",
+        "twitter_handle": "unclebobmartin",
+        "tweet_id": null
+    },
+    {
+        "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+        "author": "Dick Brandon",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.",
+        "author": "Bill Sempf",
+        "twitter_handle": "sempf",
+        "tweet_id": "514473420277694465"
+    },
+    {
+        "quote": "Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders.",
+        "author": "Unknown",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+        "author": "Charles Antony Richard Hoare",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "First do it, then do it right, then do it better.",
+        "author": "Addy Osmani",
+        "twitter_handle": "addyosmani",
+        "tweet_id": "314785735171518464"
+    },
+    {
+        "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+        "author": "Alan Perlis",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.",
+        "author": "Edsger W. Dijkstra",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "An evolving system increases its complexity unless work is done to reduce it.",
+        "author": "Meir Lehman",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+        "author": "Eagleson's Law",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "Much of the essence of building a program is in fact the debugging of the specification.",
+        "author": "Fred Brooks",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "In software, we rarely have meaningful requirements.  Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is.",
+        "author": "Jeff Atwood",
+        "twitter_handle": "codinghorror",
+        "tweet_id": null
+    },
+    {
+        "quote": "Talking through a design with someone is one of the best techniques we have for refining a solution. Minimum team size should be 2.",
+        "author": "Martin Thompson",
+        "twitter_handle": "mjpt777",
+        "tweet_id": "955890828588802049"
+    },
+    {
+        "quote": "Delete your code that is no longer in use instead of commenting it out: somebody else could read it and discover how stupid and useless it was.",
+        "author": "Mario Fusco",
+        "twitter_handle": "mariofusco",
+        "tweet_id": "955554761566236677"
+    },
+    {
+        "quote": "Agile now means, we do half of scrum poorly and use Jira.",
+        "author": "Andy Hunt",
+        "twitter_handle": "pragmaticandy",
+        "tweet_id": null
+    },
+    {
+        "quote": "50%  of the computer programming is trial and error, the other 50% is copy and paste.",
+        "author": "Pawan Sharma",
+        "twitter_handle": "mobiledev_pawan",
+        "tweet_id": null
+    },
+    {
+        "quote": "So much complexity in software comes from trying to make one thing do two things.",
+        "author": "Ryan Singer",
+        "twitter_handle": "rjs",
+        "tweet_id": null
+    },
+    {
+        "quote": "Code never lies, comments sometimes do.",
+        "author": "Ron Jeffries",
+        "twitter_handle": "RonJeffries",
+        "tweet_id": null
+    },
+    {
+        "quote": "If boring repetetives things aren't automated, a manager gets hired.",
+        "author": "Ajey Gore",
+        "twitter_handle": "AjeyGore",
+        "tweet_id": null
+    },
+    {
+        "quote": "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins.",
+        "author": "Ellen Ullman",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "You can’t solve a problem from the level of thinking that created the problem in the first place",
+        "author": "Ellen Ullman",
+        "twitter_handle": null,
+        "tweet_id": null
+    },
+    {
+        "quote": "If you can't say no, you [w|d]on't have an architecture.",
+        "author": "Michael Feathers",
+        "twitter_handle": "mfeathers",
+        "tweet_id": "1107896780983816192"
+    },
+    {
+        "quote": "I've set the wedding date. I've not asked her out yet. ---how software projects are managed.",
+        "author": "Venkat Subramaniam",
+        "twitter_handle": "venkat_s",
+        "tweet_id": "617052918491918336"
+    }
+]
